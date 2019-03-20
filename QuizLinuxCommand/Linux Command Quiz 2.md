@@ -1,4 +1,4 @@
-#Linux Command Quiz2
+# Linux Command Quiz 2
 
 1. 아래 네트워크 관리 유틸리티와 그 기능을 연결하세요
 - 접속해 있는 모든 사용자에게 메세지 전송: wall

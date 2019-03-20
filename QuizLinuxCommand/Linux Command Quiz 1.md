@@ -1,4 +1,4 @@
-#Linux Command Quiz1
+# Linux Command Quiz 1
 
 1. 설명하는 내용을 가장 잘 수행하는 리눅스 명령어와 짝을 지으세요
 - 현재 프로세스 정보 보기: ps
