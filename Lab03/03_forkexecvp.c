@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
     av[0]="ls";
     av[1]="-l";
     av[2]=(char *)0;
-    printf("-------------------\n학번: 201601692\n이름: 김재희\n-------------------\n");
+    printf("--------------\n학번: 201601692\n이름: 김재희\n--------------\n");
     /* fork another process */
     pid = fork();
     if(pid < 0) { /* error occurred */

@@ -5,7 +5,7 @@
 int main ()
 {
     int pid, status, childPid;
-    printf("-------------------\n학번: 201601692\n이름: 김재희\n-------------------\n");
+    printf("-------------\n학번: 201601692\n이름: 김재희\n--------------\n");
     printf ("I'm the parent process and my PID is %d\n", getpid ());
     pid = fork (); /* Duplicate */
     if (pid != 0) /* Branch based on return value from fork () */

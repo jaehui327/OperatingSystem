@@ -6,7 +6,7 @@
 /* 명령줄 인수로 받은 명령을 실행시킨다 */
 int main(int argc, char *argv[]) {
     int child, pid, status;
-    printf("-------------------\n학번: 201601692\n이름: 김재희\n-------------------\n");
+    printf("--------------\n학번: 201601692\n이름: 김재희\n--------------\n");
     pid = fork( );
     if (pid == 0) { // 자식 프로세스
         execvp(argv[1], &argv[1]);
